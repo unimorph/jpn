@@ -1,13 +1,12 @@
-# jpn
+# Japanese (jpn)
 
 
-
-Japanese
+Contains paradigms for Japanese verbs
 
 
 ## Source
 
-Seed verbs were collected from N5 (most basic) level of the Japanese Language Proficiency Test (JLPT) and 40 lexical honorifics, as cited in [Hirabayashi and Hama (1988)][keigo]. Inflected forms were semi-mechanically generated with the rule-based verb inflection tool ([kamiya-codec][kamiya-codec]).
+Seed verbs were collected from N5 (most basic) level of the Japanese Language Proficiency Test (JLPT) and lexical honorifics, as cited in [Hirabayashi and Hama (1988)][keigo]. Inflected forms were semi-mechanically generated with the rule-based verb inflection tool ([kamiya-codec][kamiya-codec]).
 
 
 
