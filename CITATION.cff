@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Matsuzaki"
+  given-names: "Kosuke"
+- family-names: "Taniguchi"
+  given-names: "Masaya"
+  orcid: "https://orcid.org/0000-0003-4237-9998"
+- family-names: "Inui"
+  given-names: "Kentaro"
+  orcid: "https://orcid.org/0000-0001-6510-604X"
+- family-names: "Sakaguchi"
+  given-names: "Keisuke"
+  orcid: "https://orcid.org/0000-0002-3809-1732"
+title: "J-UniMorph: Japanese Morphological Annotation through the Universal Feature Schema"
+doi: 10.48550/arXiv.2402.14411
+date-released: 2024-02-22
+url: "https://arxiv.org/abs/2402.14411"
+
