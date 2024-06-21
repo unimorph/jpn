@@ -10,23 +10,25 @@ Seed verbs were collected from N5 (most basic) level of the Japanese Language Pr
 
 
 
-## Author
+## Authors
 
 [Kosuke Matsuzaki][matsu], [Masaya Taniguchi][tani], [Kentaro Inui][Inui], [Keisuke Sakaguchi][Sakaguchi]
 
 
-## Related Works
+## Related Work
 
 [J-UniMorph][j-uni]
 
+## Paper
 
+See [arXiv][paper]
 
 ## License
 
 https://creativecommons.org/licenses/by/4.0/
 
 
-
+[paper]: https://arxiv.org/abs/2402.14411
 [keigo]: https://cir.nii.ac.jp/crid/1130000795989197696 "敬語"
 [kamiya-codec]: https://github.com/fasiha/kamiya-codec "kamiya-codec"
 [matsu]: https://matsukosuke.github.io/ "Kosuke Matsuzaki"
